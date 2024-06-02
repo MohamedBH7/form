@@ -1,0 +1,1 @@
+Android Application that has a form that contains the following items: CPR, First Name, Last Name, Gender (Male/Female), Diplomas (None, Bachelor, Master, PhD) and Email and two buttons Submit and Reset. Make sure that when the user will click on Submit it will validate the form and when the user will click on Reset it will clear the form.
